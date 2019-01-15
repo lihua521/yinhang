@@ -13,6 +13,16 @@ int main(){
         scanf("%d",&code);
 
         if(code == 1){
+         int cun;
+            char x;
+            printf("cunqian\n");
+            scanf("%d",&cun);
+            qian+=cun;
+
+            printf("dianjihuiche\n");
+
+            scanf("%c",&x);
+            scanf("%c",&x);
 
         }
         if(code == 2){
