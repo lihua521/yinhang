@@ -49,7 +49,13 @@ int main(){
 
         }
         if(code == 3){
-            
+        printf("yue%n");
+        printf("%d\n",qian);
+        char x;
+	
+         scanf("%c",&x);
+         scanf("%c",&x);
+
         }
         if(code == 4){
             
