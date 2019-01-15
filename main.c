@@ -31,6 +31,22 @@ int main(){
          char x;
          scanf("%d",&qu);
 
+         if(qu > qian)
+         {
+          printf("yuebuzuoquqianshibai\n");
+          char x;
+           scanf("%c",&x);
+           scanf("%c",&x);
+         }
+        else
+        {
+          qian -= qu;
+          printf("quqianchenggongdianjihuichujixu\n");
+          char x;
+          scanf("%c",&x);
+          scanf("%c",&x);
+        }
+
         }
         if(code == 3){
             
