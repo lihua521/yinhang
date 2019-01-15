@@ -26,7 +26,11 @@ int main(){
 
         }
         if(code == 2){
-            
+         printf("quqian\n");
+         int qu;
+         char x;
+         scanf("%d",&qu);
+
         }
         if(code == 3){
             
